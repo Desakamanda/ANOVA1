@@ -1,0 +1,25 @@
+Perlakuan	Perulangan
+3	Minggu 1
+5	Minggu 2
+2	Minggu 3
+4	Minggu 4
+1	Minggu 5
+4	Minggu 6
+7	Minggu 1
+5	Minggu 2
+4	Minggu 3
+8	Minggu 4
+5	Minggu 5
+7	Minggu 6
+8	Minggu 1
+2	Minggu 2
+6	Minggu 3
+9	Minggu 4
+6	Minggu 5
+5	Minggu 6
+8	Minggu 1
+8	Minggu 2
+7	Minggu 3
+6	Minggu 4
+7	Minggu 5
+4	Minggu 6
